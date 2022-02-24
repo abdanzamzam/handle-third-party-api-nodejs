@@ -1,0 +1,26 @@
+{
+  "name": "handle-third-party-api-nodejs",
+  "version": "1.0.0",
+  "description": "handle third party api nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdanzamzam/handle-third-party-api-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "abdanzamzam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdanzamzam/handle-third-party-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/abdanzamzam/handle-third-party-api-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
